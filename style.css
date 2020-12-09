@@ -4,7 +4,7 @@ body {
   background-color: aqua;
 }
 
-#mainContent {
+#maincontent {
   margin: 25px;
   background-color: aliceblue;
   border-color: darkgrey;
@@ -16,7 +16,7 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#myButton {
+#mybutton {
   text-align: center;
   display: block;
   margin-left: auto;

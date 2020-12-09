@@ -1,8 +1,7 @@
 // Event Listener practice
 
-document.getElementById("myButton").addEventListener("click", myFunction);
+document.getElementById('mybutton').addEventListener('click', myFunction)
 
-function myFunction() {
-  alert ("Hello World!");
+function myFunction () {
+  alert('Hello World!')
 }
- 
